@@ -78,6 +78,18 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
+- => UI Screens
+
+![HomeScreen_1](https://github.com/user-attachments/assets/b4875018-6e8b-4ffe-b3b3-58b5ef2efae4)
+
+![2 1](https://github.com/user-attachments/assets/c0dbba84-d16f-440c-ae06-7f50883844da)
+
+![Cart-Selection](https://github.com/user-attachments/assets/50861be5-2391-4c56-b9ad-de65888344f7)
+
+![itemsEditingInCart](https://github.com/user-attachments/assets/3332c430-fc0d-451a-9fa8-cde678dce30e)
+
+
+
 
 
 
